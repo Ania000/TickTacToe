@@ -1,2 +1,2 @@
 # TickTacToe
-Damn i just want it to work
+Simple TickTacToe game made in C# with Windows Forms
